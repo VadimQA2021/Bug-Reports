@@ -1,0 +1,3 @@
+Структура Bug Reports:
+Title	Invironmet	Precondition	STR	AR	ER	Severity	Priority	Attachments
+
